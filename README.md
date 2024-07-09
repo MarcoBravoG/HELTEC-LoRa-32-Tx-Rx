@@ -9,3 +9,7 @@ Lora permite enviar y recibir datos en ciertos lapsos de tiempo
 
 link para instalar node red
 https://www.youtube.com/watch?v=8oTNw0DcfuM
+telegram instalar
+https://www.youtube.com/watch?v=09XK3eeEHSU&list=PL126r1Zrdhk46r5DPxdQ8xrXou78_xiY5
+dashboard
+https://www.youtube.com/watch?v=4o5Exnct2so&t=256s
